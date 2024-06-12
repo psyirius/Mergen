@@ -21,3 +21,4 @@ CMakerLists.txt
 CMakeLists.txt.user
 /.cache
 /.vscode
+/.idea
